@@ -1,10 +1,6 @@
 # Puzzlesolver
 * @author Anthony (Tony) Poerio
-* University of Pittsburgh
-* CS1571 - Artificial Intelligence
-* Prof. Rebecca Hwa
-* Fall 2016
-* Homework #01
+* @email tony@tonypoer.io
 
 ## Overview
 Puzzlesolver is an Artificial Intelligence project whose purpose to solve **any** abstract puzzle using one of SIX search algorithms.
@@ -126,7 +122,5 @@ I've stored all the data I collected and graphs I created in an excel file named
 * PyCharm
 
 ## Acknowledgments
-
-* Project done for Rebecca Hwa's Artificial Intelligence class at the University of Pittsburgh
 * The heuristic used for the Burnt Pancakes problem was take from this paper, under the heading 'Gap Heuristic': https://www.aaai.org/ocs/index.php/SOCS/SOCS11/paper/viewFile/4013/4360 
     - I tried a few other heuristics for this problem, but this was the only one that had any success.
